@@ -1,4 +1,5 @@
-Yet another calendar plugi built using React. Built this as part of React up-skilling, hence not production ready. Please use it at you own risk. 
+Yet another calendar plugin built using React. Built this as part of React up-skilling and to understand how Components communicated with each other.
+
 ```
 react-calendar/
   README.md
